@@ -1,1 +1,2 @@
 # jenkinspipelinesetup
+setting
